@@ -1,0 +1,22 @@
+.taskInput {
+  background-color: #f0788c;
+  outline: none;
+  padding: 5px;
+  border-radius: 5px;
+  text-align: center;
+  width: 300px;
+  border-radius: 0px;
+  border-style: 1px solid black;
+}
+
+.taskInput::placeholder {
+  color: #ffffff4d;
+  font-weight: bold;
+}
+.taskBtn {
+  background-color: #f0ff3c;
+  border: none;
+  padding: 5px 15px;
+  cursor: pointer;
+  font-weight: bold;
+}
